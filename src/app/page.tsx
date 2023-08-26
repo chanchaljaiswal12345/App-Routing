@@ -6,7 +6,7 @@ import PricingSection from "./Components/LandingPage/Sections/PricingSection";
 import FaqSection from "./Components/LandingPage/Sections/FaqSection";
 import FeedBackSection from "./Components/LandingPage/Sections/FeedBackSection";
 import ContactUsSection from "./Components/LandingPage/Sections/ContactUsSection";
-
+// 
 export default function Home() {
   return (
     <CustomLayout>
